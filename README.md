@@ -7,6 +7,9 @@ Blogging Platform API is a RESTful API built using Python, Flask, and PostgreSQL
 
 It allows users to create, retrieve, update, and delete blog posts using HTTP requests. SQLAlchemy is used to interact with the PostgreSQL database.
 
+## Project URL
+
+https://roadmap.sh/projects/blogging-platform-api
 
 ## Features
 
