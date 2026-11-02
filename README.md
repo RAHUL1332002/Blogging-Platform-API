@@ -50,7 +50,7 @@ Blogging_Platform_API/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/RAHUL1332002/Blogging-Platform-API
 ```
 
 ### 2. Navigate to the project folder
